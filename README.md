@@ -1,6 +1,6 @@
 # Hi there 👋,I'm Thanawit here. 
 
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
