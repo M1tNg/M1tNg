@@ -46,10 +46,10 @@ are constantly evolving.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/java/default.asp" target="_blank"> 
-    <img src="https://miro.medium.com/max/720/0*h5qv9U03i4DdWmUQ.png" alt="java" width="40" height="40"/> 
+    <img src="https://miro.medium.com/max/720/0*h5qv9U03i4DdWmUQ.png" alt="java" width="60" height="40"/> 
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-    <img src="https://miro.medium.com/max/640/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="springboot" width="40" height="40"/> 
+    <img src="https://miro.medium.com/max/640/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="springboot" width="60" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> 
