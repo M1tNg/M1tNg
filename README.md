@@ -1,4 +1,4 @@
-# Hi there 👋,I'm Thanawit here. 
+# Hi there 👋,I'm Thanawit. 
 
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" />
 
