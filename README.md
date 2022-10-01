@@ -1,6 +1,6 @@
 # Hi there 👋,I'm Thanawit here. 
 
-<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -18,7 +18,7 @@ are constantly evolving.
   - .NET Framework
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to talk with everyone!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 📖 I love to play games, 🎵 listen to music, and .
 
 <hr>
 
