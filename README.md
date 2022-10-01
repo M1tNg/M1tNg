@@ -1,6 +1,6 @@
 # Hi there 👋,I'm Thanawit here. 
 
-<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -18,7 +18,7 @@ are constantly evolving.
   - .NET Framework
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to talk with everyone!😉<br>
-- Outside tech, 📖 I love to play games, 🎵 listen to music, and .
+- Outside tech, 🎮 I love to play games, 🎵 listen to music and ⚽ Watching football .
 
 <hr>
 
@@ -45,6 +45,12 @@ are constantly evolving.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://www.w3schools.com/java/default.asp" target="_blank"> 
+    <img src="https://miro.medium.com/max/720/0*h5qv9U03i4DdWmUQ.png" alt="java" width="40" height="40"/> 
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img src="https://miro.medium.com/max/640/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="springboot" width="40" height="40"/> 
+  </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> 
   </a>
