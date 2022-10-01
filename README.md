@@ -60,7 +60,12 @@ are constantly evolving.
   <a href="https://nodejs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="40"/> 
   </a>
-  
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://zixzax.net/wp-content/uploads/2020/05/MySQL-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" alt="mysql" width="40" height="40"/> 
+  </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongoDB" width="40" height="40"/> 
   </a>
