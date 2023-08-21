@@ -44,23 +44,17 @@ Automated tools such as
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/java/default.asp" target="_blank"> 
-    <img src="https://miro.medium.com/max/720/0*h5qv9U03i4DdWmUQ.png" alt="java" width="60" height="40"/> 
+   <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
+    <img src="https://static.javatpoint.com/csharp/images/c-sharp.png" alt="c-sharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://angularjs.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/2560px-AngularJS_logo.svg.png" alt="angular" width="40" height="40"/> 
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-    <img src="https://miro.medium.com/max/640/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="springboot" width="60" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://www.mdsoft.co.th/images/knowledge/Expressjs.png" alt="express" width="60" height="40"/> 
+  <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank"> 
+    <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt="dotnet" width="60" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://zixzax.net/wp-content/uploads/2020/05/MySQL-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" alt="mysql" width="40" height="40"/> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="mysql" width="40" height="40"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongoDB" width="40" height="40"/> 
