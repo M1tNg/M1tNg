@@ -11,12 +11,11 @@ will help me catch up with new technologies that
 are constantly evolving.
 
 - 🌱 I’m currently learning ...
-  - JavaScript
-  - React js
-  - Node js
-  - C#
-  - .NET Framework
-- 👯 I’m looking forward to collaborate on open source projects.
+Automated tools such as
+- Cypress
+- Robot Framework
+- Selenium
+
 - ✔ Ask me about anything, I am happy to talk with everyone!😉<br>
 - Outside tech, 🎮 I love to play games, 🎵 listen to music and ⚽ Watching football .
 
