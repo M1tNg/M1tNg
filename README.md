@@ -48,7 +48,7 @@ Automated tools such as
     <img src="https://static.javatpoint.com/csharp/images/c-sharp.png" alt="c-sharp" width="40" height="40"/> 
   </a> 
   <a href="https://angularjs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/2560px-AngularJS_logo.svg.png" alt="angular" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/2560px-AngularJS_logo.svg.png" alt="angular" width="100" height="40"/> 
   </a>
   <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank"> 
     <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" alt="dotnet" width="60" height="40"/> 
